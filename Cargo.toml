@@ -1,0 +1,8 @@
+[package]
+name = "bevy_reproduce_transform_issue"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[dependencies]
+bevy = "0.11"
